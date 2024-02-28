@@ -37,7 +37,22 @@ body > div {
   color: white;
 }
 
-.home {
+.yellow {
+  background-color: gold;
+  color: black;
+}
+
+.purple {
   background-color: darkorchid;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.home {
+  background-color: black;
   color: white;
 }
